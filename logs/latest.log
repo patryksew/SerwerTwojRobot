@@ -1,0 +1,280 @@
+[11:46:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[11:46:58] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[11:46:59] [Worker-Main-5/INFO]: Loaded 7 recipes
+[11:47:02] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[11:47:02] [Server thread/INFO]: Loading properties
+[11:47:03] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-9639cf7-8fb6585 (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
+[11:47:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:47:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:47:04] [Server thread/INFO]: Debug logging is disabled
+[11:47:04] [Server thread/INFO]: Default game type: SURVIVAL
+[11:47:04] [Server thread/INFO]: Generating keypair
+[11:47:04] [Server thread/INFO]: Starting Minecraft server on 192.168.8.101:25565
+[11:47:04] [Server thread/INFO]: Using default channel type
+[11:47:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:47:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:47:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:47:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:47:05] [Server thread/INFO]: Preparing level "world"
+[11:47:05] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:47:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:47:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:47:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:47:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:47:05] [Server thread/INFO]: View Distance: 10
+[11:47:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:47:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:47:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:47:05] [Server thread/INFO]: Mob Spawn Range: 6
+[11:47:05] [Server thread/INFO]: Max TNT Explosions: 100
+[11:47:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:47:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:47:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:47:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:47:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:47:05] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:47:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:47:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:47:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:47:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:47:05] [Server thread/INFO]: View Distance: 10
+[11:47:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:47:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:47:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:47:05] [Server thread/INFO]: Mob Spawn Range: 6
+[11:47:05] [Server thread/INFO]: Max TNT Explosions: 100
+[11:47:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:47:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:47:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:47:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:47:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:47:05] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:47:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:47:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:47:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:47:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:47:05] [Server thread/INFO]: View Distance: 10
+[11:47:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:47:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:47:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:47:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:47:05] [Server thread/INFO]: Mob Spawn Range: 6
+[11:47:05] [Server thread/INFO]: Max TNT Explosions: 100
+[11:47:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:47:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:47:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:47:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[11:47:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:47:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:47:08] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:08] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:08] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:08] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:08] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:09] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:09] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:15] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:15] [Worker-Main-7/INFO]: Preparing spawn area: 99%
+[11:47:16] [Worker-Main-7/INFO]: Preparing spawn area: 99%
+[11:47:16] [Server thread/INFO]: Time elapsed: 10186 ms
+[11:47:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:47:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:17] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:18] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:18] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[11:47:19] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:47:19] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[11:47:20] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:20] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[11:47:21] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:21] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:47:22] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[11:47:22] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[11:47:23] [Worker-Main-7/INFO]: Preparing spawn area: 86%
+[11:47:23] [Worker-Main-4/INFO]: Preparing spawn area: 87%
+[11:47:24] [Worker-Main-4/INFO]: Preparing spawn area: 89%
+[11:47:24] [Worker-Main-7/INFO]: Preparing spawn area: 90%
+[11:47:25] [Worker-Main-7/INFO]: Preparing spawn area: 93%
+[11:47:25] [Worker-Main-7/INFO]: Preparing spawn area: 96%
+[11:47:25] [Server thread/INFO]: Time elapsed: 9709 ms
+[11:47:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:47:26] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:26] [Server thread/INFO]: Preparing spawn area: 0%
+[11:47:26] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:47:27] [Server thread/INFO]: Time elapsed: 1453 ms
+[11:47:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:47:27] [Server thread/INFO]: Done (22.238s)! For help, type "help"
+[11:54:20] [User Authenticator #1/INFO]: UUID of player patryksew is 8ae16306-48b0-3ef3-b933-d01c60deabda
+[11:54:20] [Server thread/INFO]: patryksew[/192.168.8.102:61861] logged in with entity id 294 at ([world]53.172495442779784, 80.35876317010738, 202.47825598272254)
+[11:54:28] [User Authenticator #2/INFO]: UUID of player ujmutyhrryj7f is 056cd0e6-d01c-3a48-9394-37ae7f4e408b
+[11:54:28] [Server thread/INFO]: ujmutyhrryj7f[/192.168.8.104:49587] logged in with entity id 317 at ([world]48.5, 71.0, 192.5)
+[11:54:47] [User Authenticator #3/INFO]: UUID of player electrowarior is 6b17286a-f197-3587-88b7-b135d88c8f01
+[11:54:47] [Server thread/INFO]: electrowarior[/192.168.8.105:51764] logged in with entity id 353 at ([world]51.5, 71.0, 199.5)
+[11:54:56] [User Authenticator #4/INFO]: UUID of player slonski_zbysek is 9081b2d9-08eb-304f-9274-aef566256b48
+[11:54:56] [Server thread/INFO]: slonski_zbysek[/192.168.8.103:54500] logged in with entity id 375 at ([world]47.75901830055935, 71.0, 191.74393010344315)
+[11:55:13] [User Authenticator #5/INFO]: UUID of player porzeracz_dusz is 32c20b31-5df5-3f39-b498-6c70c0aaad56
+[11:55:13] [Server thread/INFO]: porzeracz_dusz[/192.168.8.106:58292] logged in with entity id 410 at ([world]55.5, 72.0, 182.5)
+[11:55:30] [User Authenticator #6/INFO]: UUID of player haker303 is ce9f44be-cf73-3296-b58c-fa5075b85133
+[11:55:30] [Server thread/INFO]: haker303[/192.168.8.107:50457] logged in with entity id 436 at ([world]48.5, 72.0, 183.5)
+[11:55:50] [Server thread/INFO]: patryksew issued server command: /gamemode creative @a
+[11:55:50] [Server thread/INFO]: [patryksew: Set electrowarior's game mode to Creative Mode]
+[11:55:50] [Server thread/INFO]: [patryksew: Set porzeracz_dusz's game mode to Creative Mode]
+[11:55:50] [Server thread/INFO]: [patryksew: Set haker303's game mode to Creative Mode]
+[11:56:24] [User Authenticator #7/INFO]: UUID of player Brzeszczotello is ab11d074-496d-3048-9540-5f3e397e10b6
+[11:56:25] [Server thread/INFO]: Brzeszczotello[/192.168.8.100:51030] logged in with entity id 539 at ([world]52.51741426236284, 59.0, 224.12396758789097)
+[11:59:38] [User Authenticator #8/INFO]: UUID of player kluski is 43d9a024-2689-35a5-a995-f8a0c3d84487
+[11:59:39] [Server thread/INFO]: kluski[/192.168.8.101:49773] logged in with entity id 896 at ([world]53.147320210077666, 74.90760396124287, 207.87348618806467)
+[12:00:04] [Server thread/INFO]: kluski lost connection: Timed out
+[12:00:04] [Server thread/INFO]: kluski left the game
+[12:00:19] [User Authenticator #9/INFO]: UUID of player kluski is 43d9a024-2689-35a5-a995-f8a0c3d84487
+[12:00:20] [Server thread/INFO]: kluski[/192.168.8.101:49775] logged in with entity id 985 at ([world]53.147320210077666, 74.90760396124287, 207.87348618806467)
+[12:04:27] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:27] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:33] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:33] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:34] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:34] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:35] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:35] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:35] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:35] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:36] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:36] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:37] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:37] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:38] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:38] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:39] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:39] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:39] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:39] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:39] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:39] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:40] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:40] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:41] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:41] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:41] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:41] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:41] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:41] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:42] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:42] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:43] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:43] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:04:44] [Server thread/INFO]: patryksew issued server command: /summon cow
+[12:04:44] [Server thread/INFO]: [patryksew: Summoned new Cow]
+[12:05:46] [Server thread/INFO]: patryksew issued server command: /time set dat
+[12:05:50] [Server thread/INFO]: patryksew issued server command: /time set day
+[12:05:50] [Server thread/INFO]: [patryksew: Set the time to 1000]
+[12:05:59] [Server thread/INFO]: patryksew issued server command: /gamemode survival
+[12:05:59] [Server thread/INFO]: [patryksew: Set own game mode to Survival Mode]
+[12:06:06] [Server thread/INFO]: patryksew issued server command: /give patryksew axe
+[12:06:10] [Server thread/INFO]: patryksew issued server command: /give patryksew minecraft:diamond_axe
+[12:06:10] [Server thread/INFO]: [patryksew: Gave 1 [Diamond Axe] to patryksew]
+[12:06:47] [Server thread/INFO]: patryksew issued server command: /gamemode creative
+[12:06:47] [Server thread/INFO]: [patryksew: Set own game mode to Creative Mode]
+[12:08:02] [Server thread/INFO]: patryksew issued server command: /gamemode creative patryksew
+[12:08:08] [Server thread/INFO]: patryksew issued server command: /gamemode survival patryksew
+[12:08:08] [Server thread/INFO]: [patryksew: Set own game mode to Survival Mode]
+[12:09:29] [Server thread/INFO]: patryksew was slain by Spider
+[12:10:05] [Server thread/INFO]: Set patryksew's game mode to Creative Mode
+[12:10:25] [Server thread/INFO]: electrowarior lost connection: Disconnected
+[12:10:25] [Server thread/INFO]: electrowarior left the game
+[12:11:46] [Async Chat Thread - #0/INFO]: <haker303> t[m
+[12:12:06] [Async Chat Thread - #0/INFO]: <porzeracz_dusz> t[m
+[12:12:27] [User Authenticator #10/INFO]: UUID of player electrowarior is 6b17286a-f197-3587-88b7-b135d88c8f01
+[12:12:28] [Server thread/INFO]: electrowarior[/192.168.8.105:51804] logged in with entity id 3158 at ([world]51.5, 71.0, 199.5)
+[12:15:11] [Server thread/INFO]: Made Brzeszczotello a server operator
+[12:15:38] [Server thread/INFO]: Made kluski a server operator
+[12:15:51] [Server thread/INFO]: kluski issued server command: /defaultgamemode survival
+[12:15:51] [Server thread/INFO]: [kluski: The default game mode is now Survival Mode]
+[12:24:54] [Server thread/INFO]: Brzeszczotello lost connection: Disconnected
+[12:24:54] [Server thread/INFO]: Brzeszczotello left the game
+[12:25:07] [Server thread/INFO]: Stopping the server
+[12:25:07] [Server thread/INFO]: Stopping server
+[12:25:07] [Server thread/INFO]: Saving players
+[12:25:07] [Server thread/INFO]: ujmutyhrryj7f lost connection: Server closed
+[12:25:07] [Server thread/INFO]: ujmutyhrryj7f left the game
+[12:25:07] [Server thread/INFO]: slonski_zbysek lost connection: Server closed
+[12:25:07] [Server thread/INFO]: slonski_zbysek left the game
+[12:25:07] [Server thread/INFO]: porzeracz_dusz lost connection: Server closed
+[12:25:07] [Server thread/INFO]: porzeracz_dusz left the game
+[12:25:07] [Server thread/INFO]: haker303 lost connection: Server closed
+[12:25:07] [Server thread/INFO]: haker303 left the game
+[12:25:07] [Server thread/INFO]: kluski lost connection: Server closed
+[12:25:07] [Server thread/INFO]: kluski left the game
+[12:25:07] [Server thread/INFO]: patryksew lost connection: Server closed
+[12:25:07] [Server thread/INFO]: patryksew left the game
+[12:25:07] [Server thread/INFO]: electrowarior lost connection: Server closed
+[12:25:07] [Server thread/INFO]: electrowarior left the game
+[12:25:07] [Server thread/INFO]: Saving worlds
+[12:25:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:25:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:25:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:25:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:25:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:25:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:25:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:25:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:25:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
